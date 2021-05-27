@@ -1,0 +1,22 @@
+
+.card-body{
+    background-color: #1b1b1b;
+}
+
+.card-footer{
+    background-color: #323232;
+}
+
+.card-title, .card-text{
+    color: white;
+}
+
+.col-md-4{
+    flex-direction: column; 
+    margin-left:auto;
+}  
+
+.flex-container{
+    display: flex;
+    
+}
